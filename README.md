@@ -1,4 +1,4 @@
-# AWS EC2 instance and Security Group with Terraform
+# AWS EC2 Instance and Security Group with Terraform
 
 
 ## Local infrastructure deploy
